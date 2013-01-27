@@ -1,0 +1,5 @@
+How to do this
+create a listview
+create a contentreciever from sms
+access the text message and view it
+	hit a button to decrypt them
